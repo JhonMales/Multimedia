@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ceae0139b611dfc438203128d4162e6d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cybersky Free Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 403d5ebba9bf5bd44a70b66a3fb0e8b8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
